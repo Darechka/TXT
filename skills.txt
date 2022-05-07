@@ -1,0 +1,23 @@
+Skills:
+QA theory: yes
+Server-client model: yes
+HTTP: yes
+JSON: yes
+XML: yes
+API: yes
+JS basics: yes
+Postman: yes
+Charles: yes
+Fiddler: yes
+Dev Tools: yes
+SQL basics: yes
+Git Bash: yes
+Git: yes
+Web testing: yes
+Mobile testing: yes
+Postgres: yes
+Redis: yes
+Jmeter: yes
+Scrum: yes
+Python basics: yes
+
